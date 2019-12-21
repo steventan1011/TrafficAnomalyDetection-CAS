@@ -1,4 +1,4 @@
-# TrafficAnomalyDetection-a-CAS-project-
+# TrafficAnomalyDetection-CAS
 This is a project about Traffic Anomaly Detection (a CAS project)
 
 **[Python, NMF, clustering analysis, PCA, scoring function]**
